@@ -1,0 +1,38 @@
+{
+  "name": "Gifs de Amor",
+  "short_name": "Gifs animado de Amor",
+  "start_url": "https://www.imagenesplanet.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Gifs de amor con movimiento para whatsapp",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-HB3bKZVBlqI/XSvduVwMtOI/AAAAAAAAX78/zr2__OueMuobmUF3osj3D4nDytg-05X0ACLcBGAs/s48/imagenes-planet.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-HB3bKZVBlqI/XSvduVwMtOI/AAAAAAAAX78/zr2__OueMuobmUF3osj3D4nDytg-05X0ACLcBGAs/s72/imagenes-planet.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-HB3bKZVBlqI/XSvduVwMtOI/AAAAAAAAX78/zr2__OueMuobmUF3osj3D4nDytg-05X0ACLcBGAs/s96/imagenes-planet.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-HB3bKZVBlqI/XSvduVwMtOI/AAAAAAAAX78/zr2__OueMuobmUF3osj3D4nDytg-05X0ACLcBGAs/s144/imagenes-planet.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-HB3bKZVBlqI/XSvduVwMtOI/AAAAAAAAX78/zr2__OueMuobmUF3osj3D4nDytg-05X0ACLcBGAs/s168/imagenes-planet.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-HB3bKZVBlqI/XSvduVwMtOI/AAAAAAAAX78/zr2__OueMuobmUF3osj3D4nDytg-05X0ACLcBGAs/s192/imagenes-planet.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-HB3bKZVBlqI/XSvduVwMtOI/AAAAAAAAX78/zr2__OueMuobmUF3osj3D4nDytg-05X0ACLcBGAs/s512/imagenes-planet.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
